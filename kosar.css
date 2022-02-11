@@ -3,4 +3,58 @@
 	top:-39px;
 	left:580px;
 	width:120px;
+	background-color: rgb(255,165,0);
+	color:white;
+	opacity: 0.6;
+	padding: 15px;
+	margin: -35px;
+}
+
+span
+{
+	font-weight: bold;
+}
+
+#tartalom
+{
+	width: 600px;
+	margin-top: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table
+{
+	width: 500px;
+	text-align: center;
+}
+
+td
+{
+	width: 75px;
+}
+
+#tovabb:hover
+{
+	background-color:black;
+}
+
+p
+{
+	text-align: justify;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+h1
+{
+	border-bottom:lightgray;
+	border-style: solid;
+	border-width: 1px;
+	border-top: none;
+	border-left: none;
+	border-right: none;
 }
